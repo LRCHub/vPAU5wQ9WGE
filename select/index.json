@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "sweet/sour / 氷夏至【Music Video】",
+  "base_artist": "氷夏至",
+  "createdAt": "2026-02-24T08:52:16.656655Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Home Sweet",
+      "artist": "Russell Dickerson",
+      "has_synced": true,
+      "path": "select/01_Home_Sweet_Russell_Dickerson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Home Sweet",
+      "artist": "Russell Dickerson",
+      "has_synced": true,
+      "path": "select/02_Home_Sweet_Russell_Dickerson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Home Sweet (feat. Lady A)",
+      "artist": "Russell Dickerson feat. Lady A",
+      "has_synced": true,
+      "path": "select/03_Home_Sweet_(feat._Lady_A)_Russell_Dickerson_feat._Lady_A.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Home Sweet (feat. Lady A)",
+      "artist": "Russell Dickerson",
+      "has_synced": true,
+      "path": "select/04_Home_Sweet_(feat._Lady_A)_Russell_Dickerson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet Child O' Mine",
+      "artist": "Guns N' Roses",
+      "has_synced": true,
+      "path": "select/05_Sweet_Child_O'_Mine_Guns_N'_Roses.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet Nothing",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/06_Sweet_Nothing_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tabasco & Sweet Tea",
+      "artist": "The Cadillac Three",
+      "has_synced": true,
+      "path": "select/07_Tabasco_&_Sweet_Tea_The_Cadillac_Three.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Oh Me, Oh My Sweet Baby",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/08_Oh_Me,_Oh_My_Sweet_Baby_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Oh Me, Oh My Sweet Baby (Album Version)",
+      "artist": "George Strait",
+      "has_synced": false,
+      "path": "select/09_Oh_Me,_Oh_My_Sweet_Baby_(Album_Version)_George_Strait.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Roll In My Sweet Baby's Arms",
+      "artist": "Leon Russell",
+      "has_synced": false,
+      "path": "select/10_Roll_In_My_Sweet_Baby's_Arms_Leon_Russell.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Short Sweet Ride",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/11_Short_Sweet_Ride_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Short Sweet Ride",
+      "artist": "Alan Jackson",
+      "has_synced": false,
+      "path": "select/12_Short_Sweet_Ride_Alan_Jackson.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweet Country Music",
+      "artist": "Atlanta",
+      "has_synced": true,
+      "path": "select/13_Sweet_Country_Music_Atlanta.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Of You) - Single Version",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/14_Sweet_Dreams_(Of_You)_-_Single_Version_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Of You) (Single Version)",
+      "artist": "Patsy Cline",
+      "has_synced": true,
+      "path": "select/15_Sweet_Dreams_(Of_You)_(Single_Version)_Patsy_Cline.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sweet Dreams Of You",
+      "artist": "Emmylou Harris",
+      "has_synced": true,
+      "path": "select/16_Sweet_Dreams_Of_You_Emmylou_Harris.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sweet Home Alabama",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/17_Sweet_Home_Alabama_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "sweet/sour",
+      "artist": "氷夏至",
+      "has_synced": false,
+      "path": "select/pl_01_sweet_sour_氷夏至.txt"
+    }
+  ]
+}
